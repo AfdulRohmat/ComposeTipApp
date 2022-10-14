@@ -55,7 +55,7 @@ fun TopHeader() {
     Surface(
         modifier = Modifier
             .fillMaxWidth()
-            .height(150.dp)
+            .height(160.dp)
             .clip(shape = RoundedCornerShape(16.dp)),
         color = Color(0xFFE9D7F7)
     ) {
